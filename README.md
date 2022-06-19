@@ -1,1 +1,1 @@
-# forecast sample for IMD
+# forecast
